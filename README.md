@@ -2,7 +2,7 @@
 
 > A web-based system that helps small and medium-sized Kenyan healthcare facilities automate medication reminders, manage appointments, and track patient adherence — built with PHP, MySQL, and vanilla JavaScript.
 
-**Live demo:** https://paarsys.gt.tc/paar &nbsp;|&nbsp; **Final-Year CS Research Project — Kabarak University, 2026**
+**Live demo:** https://paarsys.gt.tc/paar &nbsp;|&nbsp; 
 
 ---
 
@@ -311,6 +311,4 @@ Or require a token in the query string — see the comment block at the bottom o
 
 ## Author
 
-**Philip Ndege** — Final-Year Computer Science, Kabarak University, Kenya, 2026.
-
-Built as a Research Project II submission (COMP 422). Adapted freely for academic and clinical pilot use.
+**Philip Ndege** — Computer Science, Kabarak University, Kenya, 2026.
