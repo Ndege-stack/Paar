@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Forest green rounded square background -->
+  <rect width="32" height="32" rx="7" ry="7" fill="#0b3d2e"/>
+
+  <!-- Mint accent dot (brand mark) -->
+  <circle cx="9" cy="9" r="3" fill="#00c896"/>
+
+  <!-- Stylised "P" letterform in white -->
+  <path d="M12 22V10h5.5a4 4 0 0 1 0 8H12" stroke="#ffffff" stroke-width="2.2"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Subtle pulse line beneath -->
+  <path d="M8 26 h3 l2-3 l2 5 l2-4 l1.5 2 H24"
+        stroke="#00c896" stroke-width="1.6"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
